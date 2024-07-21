@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Ruan, Yiming"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Funders / Ali Cloud MVP"
+  bio    : "The founder of Roambox,8box and onebird.ai / The MVP of Ali Cloud"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
