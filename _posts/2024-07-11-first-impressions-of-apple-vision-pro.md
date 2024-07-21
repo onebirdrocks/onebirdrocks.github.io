@@ -5,10 +5,7 @@ categories:
   - Blog
 tags:
   - Apple
-  - xR
   - Spatial Computing
 ---
-
-
 TBD
 
