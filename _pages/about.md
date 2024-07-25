@@ -7,7 +7,7 @@ Welcome to my blog, where I document my learning journey, thoughts, and projects
 
 I am passionate about new technologies and tech products, and I love building products from scratch. As an engineer with a deep enthusiasm for product and design thinking, I excel at connecting details with user and business needs.
 
-I currently reside in Shanghai.
+I currently reside mainly in Shanghai. Occasionally, I work at various WeWork locations, experiencing the lifestyle of a digital nomad.
 
 ##### Professional Experience
 - R&D Manager for Experimentation Platform at eBay
@@ -21,9 +21,12 @@ I currently reside in Shanghai.
 - Co-founder of Roambox, a mobile game content provider and wireless entertainment technology provider, with clients including China Mobile, China Unicom, Tencent, and Sina
 
 
+欢迎来到我的博客，这里记录了我的学习旅程、想法和项目。在这里，您将找到有关但不限于生成式人工智能、空间计算、大数据、移动开发、有趣的项目、创意和电子产品的内容。
+
 我热爱新技术和科技产品，也热衷于从无到有地打造产品。作为一名对产品和设计思维充满热情的工程师，我擅长将细节与用户和业务需求相结合。
 
-我目前居住在上海。
+我目前主要居住在上海。偶尔会在各地的WeWork工作，体验数字游民的生活方式。
+
 
 ##### 过往的职业经历
 - eBay 实验平台研发经理
@@ -35,4 +38,4 @@ I currently reside in Shanghai.
 - HP Software Language Builder产品研发经理
 - 8box.cn（中国第一家个性化音乐推荐社区，入选中国最值得投资的100家商业网站）联合创始人
 - Roambox（手机游戏内容供应商和无线娱乐技术提供商，客户包括中国移动、中国联通、Tencent、Sina等）联合创始人
-欢迎来到我的博客，这里记录了我的学习旅程、所思所想和开发的项目。内容涵盖但不限于生成式AI、空间计算、大数据、移动开发、有趣的项目和产品等。
+
