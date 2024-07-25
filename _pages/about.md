@@ -14,6 +14,7 @@ I currently reside in Shanghai.
 - Tech Lead for Search Platform at eBay
 - Private Cloud R&D Engineer at eBay
 - Elasticsearch Course Instructor (over 60,000 sales) at Geektime
+- MVP of Alibaba Cloud
 - Performance Architect for ITSM Product Line at HP Software
 - R&D Manager for Language Builder Product at HP Software
 - Co-founder of 8box.cn, China's first personalized music recommendation community (named one of the top 100 most investable business websites in China)
@@ -26,9 +27,10 @@ I currently reside in Shanghai.
 
 ##### 过往的职业经历
 - eBay 实验平台研发经理
-- eBay 搜索平台技术Lead
+- eBay 搜索平台技术负责人
 - eBay 私有云研发工程师
-- Elasticsearch课程讲师（6万+销售）极客时间
+- 极客时间 Elasticsearch课程讲师（6万+销售）
+- 阿里云 MVP
 - HP Software ITSM产品线性能架构师
 - HP Software Language Builder产品研发经理
 - 8box.cn（中国第一家个性化音乐推荐社区，入选中国最值得投资的100家商业网站）联合创始人
